@@ -1,3 +1,6 @@
 [submodule "2024-Blood-Smear-Device"]
 	path = 2024-Blood-Smear-Device
 	url = git@github.com:eMGie01/2024-Blood-Smear-Device.git
+[submodule "2024-PI-Controller-for-Motor"]
+	path = 2024-PI-Controller-for-Motor
+	url = git@github.com:eMGie01/2024-PI-Controller-for-Motor.git
