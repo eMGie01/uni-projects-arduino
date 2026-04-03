@@ -4,3 +4,12 @@
 [submodule "2024-PI-Controller-for-Motor"]
 	path = 2024-PI-Controller-for-Motor
 	url = git@github.com:eMGie01/2024-PI-Controller-for-Motor.git
+[submodule "2024-Smart-Sensor-Rangefinder"]
+	path = 2024-Smart-Sensor-Rangefinder
+	url = git@github.com:eMGie01/2024-Smart-Sensor-Rangefinder.git
+[submodule "2025-Active-Load"]
+	path = 2025-Active-Load
+	url = git@github.com:eMGie01/2025-Active-Load.git
+[submodule "2025-STM32-ESP32-Modbus-Gateway"]
+	path = 2025-STM32-ESP32-Modbus-Gateway
+	url = git@github.com:eMGie01/2025-STM32-ESP32-Modbus-Gateway.git
