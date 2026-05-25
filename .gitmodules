@@ -1,9 +1,3 @@
-[submodule "2025-Active-Load"]
-	path = 2025-Active-Load
-	url = git@github.com:eMGie01/2025-Active-Load.git
-[submodule "2025-STM32-ESP32-Modbus-Gateway"]
-	path = 2025-STM32-ESP32-Modbus-Gateway
-	url = git@github.com:eMGie01/2025-STM32-ESP32-Modbus-Gateway.git
 [submodule "2024-Blood-Smear-Device"]
 	path = 2024-Blood-Smear-Device
 	url = git@github.com:eMGie01/2024-Blood-Smear-Device.git
